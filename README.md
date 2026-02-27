@@ -4,12 +4,12 @@
   <a href="https://www.python.org/downloads/release/python-360/">
     <img src="https://img.shields.io/badge/Python->=3.8.8-3776AB?logo=python&style=flat-square" alt="Python">
   </a>     
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/Graph-Mining-Spring-2025?logo=history&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/Graph-Mining-Spring-2025?logo=file-code&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/Graph-Mining-Spring-2025?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/Graph-Mining-Spring-2025?logo=star&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/Graph-Mining-Spring-2025?logo=issue&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/Graph-Mining-Spring-2025?logo=law&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/Graph-Mining-Spring-2026?logo=history&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/Graph-Mining-Spring-2026?logo=file-code&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/Graph-Mining-Spring-2026?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/Graph-Mining-Spring-2026?logo=star&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/Graph-Mining-Spring-2026?logo=issue&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/Graph-Mining-Spring-2026?logo=law&style=flat-square"/>
 </p>
 
 Welcome to the Graph Mining (06837-01) class repository for the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as practices, assignments, and sample codes for the class. If you have any inquiries, please don't hesitate to contact the teaching assistants through the following email addresses.
@@ -57,8 +57,8 @@ The syllabus for this class can be found on the following Notion page.
 
 ### Contributors
 
-<a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2025/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2025" />
+<a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2026/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2026" />
 </a>
 
 <br>
