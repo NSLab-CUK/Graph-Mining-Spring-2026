@@ -53,7 +53,7 @@ The syllabus for this class can be found on the following Notion page.
 * Teaching Assistants
   * [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) - [![E-mail](https://img.shields.io/badge/-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
   * [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) - [![E-mail](https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:osfa19730@catholic.ac.kr)
-  * [Ho Huu Tuong](https://nslab-cuk.github.io/member/) - [![E-mail](https://img.shields.io/badge/-tuonghh@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:tuonghh@catholic.ac.kr)]
+  * [Huu-Tuong Ho](https://nslab-cuk.github.io/member/) - [![E-mail](https://img.shields.io/badge/-tuonghh@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:tuonghh@catholic.ac.kr)
 
 
 ### Contributors
