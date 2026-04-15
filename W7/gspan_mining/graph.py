@@ -150,5 +150,18 @@ class Graph(object):
         plt.figure(3, figsize=fsize)
         pos = nx.spectral_layout(gnx)
         nx.draw_networkx(gnx, pos, arrows=True, with_labels=True, labels=vlbs)
-        nx.draw_networkx_edge_labels(gnx, pos, edge_labels=elbs)
+        try:
+            nx.draw_networkx_edge_labels(gnx, pos, edge_labels=elbs)
+        except (ValueError, TypeError):
+            # Handle NetworkX version compatibility issues
+            # Try drawing without edge labels or use a manual approach
+            try:
+                # For newer NetworkX versions, try without the edge labels
+                for (u, v), label in elbs.items():
+                    x = (pos[u][0] + pos[v][0]) / 2
+                    y = (pos[u][1] + pos[v][1]) / 2
+                    plt.text(x, y, str(label), fontsize=10, ha='center')
+            except Exception:
+                # If all else fails, just skip edge labels
+                pass
         plt.show()
