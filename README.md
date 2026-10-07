@@ -12,6 +12,28 @@
   <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/Graph-Mining-Spring-2026?logo=law&style=flat-square"/>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>
+        <strong>Previous years</strong><br>
+        For previous years' lectures, you can visit the
+      </p>
+      <p>
+        <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2025">
+          <img src="https://img.shields.io/badge/Fall-2025-0C2E86?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Fall 2025 course repository">
+        </a>
+        <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2024">
+          <img src="https://img.shields.io/badge/Fall-2024-0C2E86?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Fall 2024 course repository">
+        </a>
+        <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2023">
+          <img src="https://img.shields.io/badge/Fall-2023-0C2E86?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Fall 2023 course repository">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 Welcome to the Graph Mining (06837-01) class repository for the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as practices, assignments, and sample codes for the class. If you have any inquiries, please don't hesitate to contact the teaching assistants through the following email addresses.
 
  
