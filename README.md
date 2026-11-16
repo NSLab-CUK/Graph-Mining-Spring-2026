@@ -77,7 +77,13 @@ The syllabus for this class can be found on the following Notion page.
   * [Huu-Tuong Ho](https://nslab-cuk.github.io/member/) - [![E-mail](https://img.shields.io/badge/-tuonghh@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:tuonghh@catholic.ac.kr)
 
 
-### Contributors
+### Acknowledgments & Contributors
+
+This repository builds upon lecture materials, practice notebooks, and assignment templates developed in previous iterations of the course. We gratefully acknowledge the contributions of our former Teaching Assistants:
+
+* Spring 2023 -- Spring 2025: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90)
+* Spring 2024: Huy Quang Tran
+* Spring 2023: Sang Thanh Nguyen 
 
 <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2026/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2026" />
